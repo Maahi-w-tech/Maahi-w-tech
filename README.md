@@ -25,9 +25,9 @@ Focused on real-world machine learning projects, backend fundamentals, and conti
 
 
 ## 📊 GitHub Stats
-![Maahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maahi-w-tech&show_icons=true&theme=radical)
 
+![Maahi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Maahi-w-tech&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maahi-w-tech&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maahi-w-tech&layout=compact&theme=radical)
 
 
