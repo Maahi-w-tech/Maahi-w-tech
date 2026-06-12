@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Maahi+%F0%9F%92%9C;aspiring+ML+engineer+%E2%9C%A8;building+%26+breaking+things+%F0%9F%A4%8D;powered+by+caffeine+%26+curiosity+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Maahi+%F0%9F%92%9C;ML+enthusiast+%E2%9C%A8;building+%26+breaking+things+%F0%9F%A4%8D;powered+by+caffeine+%26+curiosity+%E2%98%95" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" />
 
-I'm **Maahi**, an aspiring ML engineer from Nagpur, India 🇮🇳
+I'm **Maahi**, an aspiring ML engineer from India 🇮🇳
 
 I got into ML because I wanted to build things that actually *think* —
 not just execute. Since then I've been obsessing over model internals,
@@ -84,6 +84,6 @@ maahi = {
 
 <br/>
 
-![wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc69ffdaa89a4aa/bottom_header.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=footer" width="100%"/>
 
 </div>
