@@ -15,17 +15,15 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" />
 
-I'm **Maahi**, an aspiring ML engineer from India 🇮🇳
+I'm  an aspiring ML engineer 🇮🇳
 
 I got into ML because I wanted to build things that actually *think* —
 not just execute. Since then I've been obsessing over model internals,
-real-world data pipelines, and writing code that does something meaningful.
+real-world data pipelines.
 
 - 🔨 I learn by building (and breaking) things
 - 🧠 currently going deep on machine learning fundamentals
 - ⚡ picking up backend skills to ship end-to-end
-- 🌸 firm believer that code can be both smart *and* pretty
-- 📍 India
 
 ---
 
@@ -43,7 +41,7 @@ maahi = {
 
 ---
 
-## 💅 my stack
+##  my stack
 
 **languages**
 
