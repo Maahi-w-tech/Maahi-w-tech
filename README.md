@@ -34,8 +34,6 @@ maahi = {
     "pronouns":     "she/her",
     "currently":    "building ML projects that don't just live in notebooks",
     "learning":     ["model internals", "backend basics", "system design"],
-    "fun_fact":     "I debug better with lo-fi music playing 🎵",
-    "aesthetic":    "violet accents, always ✨"
 }
 ```
 
